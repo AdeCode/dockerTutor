@@ -1,4 +1,4 @@
-# Creating a Docker contaneriation for my front end app
+# Creating a Docker containerization for my front end app
 
 # Getting Started with Create React App
 
